@@ -1,0 +1,27 @@
+.body{
+    height:100%;
+    color:rgb(15, 255, 35);
+    margin-top: 0px;
+    background-color:darkblue;
+}
+
+.form-control{
+    border: solid rgb(165, 165, 165);
+    width:50%;
+}
+.button{
+    margin-left: 0px;
+    margin-top: 20px;
+}
+.form{
+    position:relative;
+    left: 350px;
+    top: 50px;
+}
+.h1{
+    text-align:center;
+    margin-top: 30px;
+}
+.example-spacer {
+    flex: 1 1 auto;
+  }
